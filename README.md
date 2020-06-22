@@ -5,14 +5,14 @@ Projekt z głosowej łaczniości z komputerem
 **Projekt: Głosowa łączność z komputerem**
 
 Zespół III:
-Cieśla Agnieszka
-Czuchra Jakub
-Gałaszewicz Natalia
-Mędrala Radosław
-Mikos Weronika
-Nazimek Michał
-Typer Wiktoria
-Szymczyk Adrianna
+Cieśla Agnieszka,
+Czuchra Jakub,
+Gałaszewicz Natalia,
+Mędrala Radosław,
+Mikos Weronika,
+Nazimek Michał,
+Typer Wiktoria,
+Szymczyk Adrianna,
 Winiarski Szymon
 
 ======
