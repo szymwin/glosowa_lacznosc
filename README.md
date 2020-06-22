@@ -45,6 +45,9 @@ Testing Accuracy: 81.25%<br><br>
 
 Aby sprawdzić plik należy go dodać do “file to check” jak na screen1.png.<br><br>
 Jak można zauważyć, skuteczność rozpoznawania mowy wzrosła wraz z uczeniem. Podane wyniki można także zaobserwować na załączonych plikach screen1.png i screen2.png: gdzie skuteczność rozpoznawania mowy przez komputer wynosi aż 99% co niewątpliwie wskazuje na poprawność działania programu.  <br><br>
+Uczenie modelu zostało zainicjowane korzystając z nagrań dostępnych w bazie ./nagrania. Następnie skuteczność projektu testowana była używając osobno nagranych przez różne osoby komendach.<br>
+Otrzymano model, który rozpoznaje mowę z różną skutecznością. Zazwyczaj skuteczność była dosyć wysoka, jednak w niektórych przypadkach maszyna myliła komendy. Najczęstszym błędem było mylenie komendy “okno” z komendą “drzwi”, jednak zdarzać się to może każdemu :) W ogólnym rozrachunku program w sposób satysfakcjonujący poradził sobie z rozpoznawaniem mowy, co może dawać duże nadzieje na dalszy jego rozwój. <br>
+
 Podczas projektu zostały wykorzystane następujące technologie:
 
 - jupiter notebook - oba podejścia
